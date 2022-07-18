@@ -1,4 +1,4 @@
-# php-transaction
+# PHP-Transaction
 
 Transaction using PHP/Mysql using PDO.
 
